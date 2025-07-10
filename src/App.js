@@ -139,7 +139,7 @@ export function About() {
 
 const WhatsAppWidget = () => (
   <a
-    href="https://wa.me/919558075351?text=Hi%20there!%20I'm%20interested%20in%20your%20event%20services."
+    href="https://wa.me/919427702320?text=Hi%20there!%20I'm%20interested%20in%20your%20event%20services."
     className="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white p-4 rounded-full shadow-lg z-50"
     target="_blank"
     rel="noopener noreferrer"
@@ -343,12 +343,13 @@ function Contact() {
         <div>
           <h3 className="text-xl font-semibold mb-4">Visit Us</h3>
           <p className="mb-2">The Celebration Studio</p>
-          <p className="mb-2">GALAXY CORAL, A 41, nr. MADHAV HOMES, Vastral, Ahmedabad, Gujarat 382418</p>
-          <p className="mb-2">Email: mparmar@gmail.com</p>
-          <p className="mb-4">Phone: +91-95580-75351</p>
+          <p className="mb-2">9TH Floor Aakruti Complex, Stadium Circle, Navrangpura, Ahmedabad, Gujarat 380009</p>
+          <p className="mb-2">Email: omnims@gmail.com</p>
+          <p className="mb-4">Phone: +91-11111-11111</p>
           <iframe
             title="Google Map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.872160725614!2d72.6574322!3d22.991728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e8706234d0433%3A0x88840f015f5fad96!2sThe%20Celebration%20Studio!5e0!3m2!1sen!2sin!4v1750276229478!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.574998553344!2d72.56544749999999!3d23.039371999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e848adaf06f61%3A0xc0742f3c45943a73!2sOmniMD!5e0!3m2!1sen!2sin!4v1752172291686!5m2!1sen!2sin"
+            // src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.872160725614!2d72.6574322!3d22.991728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e8706234d0433%3A0x88840f015f5fad96!2sThe%20Celebration%20Studio!5e0!3m2!1sen!2sin!4v1750276229478!5m2!1sen!2sin"
             width="100%"
             height="300"
             style={{ border: 0 }}
